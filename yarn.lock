@@ -4436,9 +4436,9 @@ ejs@^2.6.1:
   integrity sha512-7vmuyh5+kuUyJKePhQfRQBhXV5Ce+RnaeeQArKu1EAMpL3WbgMt5WG6uQZpEVvYSSsxMXRKOewtDk9RaTKXRlA==
 
 electron-to-chromium@^1.3.564, electron-to-chromium@^1.4.118:
-  version "1.4.140"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.140.tgz#1b5836b7244aff341a11c8efd63dfe003dee4a19"
-  integrity sha512-NLz5va823QfJBYOO/hLV4AfU4Crmkl/6Hl2pH3qdJcmi0ySZ3YTWHxOlDm3uJOFBEPy3pIhu8gKQo6prQTWKKA==
+  version "1.4.141"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.141.tgz#4dd9119e8a99f1c83c51dfcf1bed79ea541f08d6"
+  integrity sha512-mfBcbqc0qc6RlxrsIgLG2wCqkiPAjEezHxGTu7p3dHHFOurH4EjS9rFZndX5axC8264rI1Pcbw8uQP39oZckeA==
 
 elliptic@^6.5.3:
   version "6.5.4"
